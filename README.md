@@ -1,4 +1,4 @@
-# Welcome to UnivCoin github !
+# Welcome to IUC github !
 
 ---------
 UNIBLOCK Platform
