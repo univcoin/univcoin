@@ -71,7 +71,7 @@ library SafeMath {
   }
 }
 
-contract UNIVCOIN is IERC20 {
+contract UNICOIN is IERC20 {
     using SafeMath for uint256;
     mapping (address => uint256) private _balances;
 
